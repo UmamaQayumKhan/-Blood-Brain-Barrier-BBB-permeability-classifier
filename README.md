@@ -6,7 +6,7 @@
 
 ---
 
-## The problem — in plain words
+## The problem
 
 Imagine you are a scientist trying to cure Alzheimer's. You spend years making a drug that kills the bad proteins in the disease. You test it in a dish — it works perfectly. Then you give it to a patient and nothing happens.
 
